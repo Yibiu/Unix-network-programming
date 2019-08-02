@@ -18,7 +18,7 @@
 
 ## 二：select函数
 
-###2.1 select函数
+### 2.1 select函数
 
 ```c++
 #include <sys/select.h>
